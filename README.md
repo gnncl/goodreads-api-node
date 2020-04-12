@@ -8,10 +8,10 @@ A Goodreads API wrapper for node.js
 ## Installation
 
 ```bash
-npm install --save goodreads-api-node
+npm install --save charlottedann/goodreads-api-node
 ```
 ```js
-const goodreads = require('goodreads-api-node');
+const goodreads = require('@charlottedann/goodreads-api-node');
 ```
 
 ## Usage
